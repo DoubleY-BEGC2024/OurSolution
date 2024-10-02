@@ -1,5 +1,7 @@
 # 2024 IEEE BigData Cup: Building Extraction Generalization Challenge (IEEE BEGC2024)
 
+#### By [Yi Jie WONG](https://github.com/yjwong1999) & [Yin-Loon Khor](https://www.linkedin.com/in/yinloonkhor/) et al
+
 This code is part of our solution for [2024 IEEE BigData Cup: Building Extraction Generalization Challenge (IEEE BEGC2024)](https://www.kaggle.com/competitions/building-extraction-generalization-2024/overview). Specifically, our solutions involved 2 methods:
 1. Additional dataset ➡️ extract additional building footprint data from the Microsoft Building Footprint (BF) dataset for Redmond, Washington, and Las Vegas, Nevada.
 2. Diffusion augmentation ➡️ using segmentation-guided diffusion model to transform land cover segmentation masks + building box labels (polygon) into realistic synthetic images
