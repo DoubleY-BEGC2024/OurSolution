@@ -11,3 +11,20 @@ We find that our YOLO model trained using both the original and synthetic datase
 Please visit our codes in:
 1. YOLO-based Building Instance Segmentation [here](https://github.com/yjwong1999/RSBuildingExtraction)
 2. Segmentation Guided Diffusion Model for Diffusion Augmentation [here](https://github.com/yjwong1999/RSGuidedDiffusion)
+
+## Cite this repository
+
+Our paper has been accepted by IEEE BigData 2024! Please cite our preprint if this repo helps your research.
+```
+@article{Wong2024,
+   author = {Yi Jie Wong and Yin-Loon Khor and Mau-Luen Tham and Ban-Hoe Kwan and Anissa Mokraoui and Yoong Choon Chang},
+   doi = {10.36227/TECHRXIV.173091008.80781383/V1},
+   institution = {Techrxiv},
+   journal = {Authorea Preprints},
+   month = {11},
+   publisher = {Authorea},
+   title = {Cross-City Building Instance Segmentation: From More Data to Diffusion-Augmentation},
+   url = {https://www.techrxiv.org/users/844381/articles/1235896-cross-city-building-instance-segmentation-from-more-data-to-diffusion-augmentation?commit=b5f5b583761fbb4a7a1e5c99b9c3dae7c50f11c7},
+   year = {2024},
+}
+```
